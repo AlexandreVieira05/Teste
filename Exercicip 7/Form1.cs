@@ -36,6 +36,7 @@ namespace Exercicip_7
                     Result = Num2 / Num1;
                     break;
             }
+            //asdfghjk
             textBox1.Text = ("O resultado da conta é: " + Result);
             if (comboBox1.Text == "")
             {
